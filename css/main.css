@@ -1,0 +1,36 @@
+body {
+}
+.container {
+}
+.box-inner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background: #222;
+}
+.form {
+}
+.form__input {
+  padding: 9px;
+}
+.weather__wrap {
+}
+.result {
+}
+.country-name {
+  font-size: 28px;
+  font-weight: bold;
+  color: aliceblue;
+}
+.select-country {
+  color: aliceblue;
+}
+.digrel-temper {
+  color: aliceblue;
+}
+.speed {
+  color: aliceblue;
+}
+
